@@ -55,7 +55,6 @@ p {
 
 a {
   color: #4caf50;
-  text-decoration: none;
 }
 
 a:hover {
@@ -217,8 +216,9 @@ footer {
     max-width: 120px;
   }
 }
-.header-text {
-  font-size: 1.2em;
-  background-color: #c1ac35;
-  margin-top: 10px;
+.methods {
+  border-bottom: 2px solid #eee;
+}
+.ingredients {
+  color: #555;
 }
